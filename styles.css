@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+#main{
+	  margin: 0;
+      padding: 0;
+      background: url(https://www.globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg) center/cover no-repeat fixed;
+      color: white;
+      text-align: center;
+}
